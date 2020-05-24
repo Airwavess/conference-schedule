@@ -1,0 +1,10 @@
+body {
+  min-width: fit-content;
+}
+
+.App {
+  background: #f5fcf5;
+  margin-top: 200px;
+  font-family: sans-serif;
+  text-align: center;
+}
